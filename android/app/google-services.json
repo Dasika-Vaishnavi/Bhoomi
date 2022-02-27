@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437900891119",
+    "project_id": "bhoomi-c1c7d",
+    "storage_bucket": "bhoomi-c1c7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437900891119:android:c58f37e312b6b84dd01c1a",
+        "android_client_info": {
+          "package_name": "com.blockbuster.bhoomi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437900891119-vtp3im7hki84c75mq1ciuftpc1ajn6u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9rOytR3xaQ1FklxQmcZIze1pnevwLusg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437900891119-vtp3im7hki84c75mq1ciuftpc1ajn6u3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

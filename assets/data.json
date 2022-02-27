@@ -1,0 +1,548 @@
+[
+    {
+       "CropName":"Sugarcane",
+       "Summary":"Sugarcane refers to several species and hybrids of tall perennial grass in the genus Saccharum  that are used for sugar production. The plants are 2–6 m (6–20 ft) tall with stout, jointed, fibrous stalks that are rich in sucrose, which accumulates in the stalk internodes. Sugarcanes belong to the grass family. It is an economically important flowering plant family that includes maize, wheat, rice, and sorghum, and many forage crops. It is native to the warm, temperate tropical regions of India.",
+       "CoverImage":"/media/50791/images-11.jpg",
+       "Url":"/sugarcane/",
+       "SowingTWR":{
+          "RegionName":"Subtropical Region",
+          "Locations":[
+             "Uttar Pradesh",
+             "Punjab",
+             "Haryana",
+             "Bihar",
+             "Uttarakhand"
+          ],
+          "From":"2022-09-01T00:00:00",
+          "To":"2022-10-31T00:00:00"
+       }
+    },
+     
+    {
+       "CropName":"Groundnut (Moongfali)",
+       "Summary":"One of the most important seed crop, is extensively grown in India. The kernels of Groundnut contain almost 45% oil and 25 % protein. These are also good source of Vitamin B and E. It was originated in Brazil, South America. In India, it is mostly grown in southern states like Andhra Pradesh, Gujarat, Karnataka and Maharashtra.",
+       "CoverImage":"/media/51000/images-13.jpg",
+       "Url":"/groundnut/",
+       "SowingTWR":{
+          "RegionName":"Peninsular India",
+          "Locations":[
+             "Andhra Pradesh",
+             "Maharashtra",
+             "Tamil Nadu",
+             "Karnataka"
+          ],
+          "From":"2022-06-25T00:00:00",
+          "To":"2022-07-31T00:00:00"
+       }
+    },
+    {
+       "CropName":"Lady finger/ Okra",
+       "Summary":"Okra is a multipurpose crop valued for its tender and delicious pods. is the most important vegetable crop of the tropical and subtropical regions of the world. It belongs to the genus Abelmoschus and family Malvaceae",
+       "CoverImage":"/media/51154/vs-18582-1.jpg",
+       "Url":"/lady-finger-okra/",
+       "SowingTWR":{
+          "RegionName":"Northern India",
+          "Locations":[
+             
+          ],
+          "From":"2022-01-01T00:00:00",
+          "To":"2022-01-01T00:00:00"
+       }
+    },
+    {
+       "CropName":"Cabbage",
+       "Summary":"Cabbage is a leafy green, red (purple), or white (pale green) biennial plant grown as an annual vegetable crop for its dense-leaved heads. It is descended from the wild cabbage, and belongs to the \"cole crops\" or brassicas, meaning it is closely related to broccoli and cauliflower, Brussel sprouts and Savoy cabbage.",
+       "CoverImage":"/media/51167/cabbage1.jpg",
+       "Url":"/cabbage/",
+       "SowingTWR":{
+          "RegionName":"Northern region",
+          "Locations":[
+             "Uttar Pradesh",
+             "Odisha",
+             "Bihar",
+             "Assam"
+          ],
+          "From":"2022-09-01T00:00:00",
+          "To":"2022-10-31T00:00:00"
+       }
+    },
+    {
+       "CropName":"Cabbage",
+       "Summary":"Cabbage is a leafy green, red (purple), or white (pale green) biennial plant grown as an annual vegetable crop for its dense-leaved heads. It is descended from the wild cabbage, and belongs to the \"cole crops\" or brassicas, meaning it is closely related to broccoli and cauliflower, Brussel sprouts and Savoy cabbage.",
+       "CoverImage":"/media/51167/cabbage1.jpg",
+       "Url":"/cabbage/",
+       "SowingTWR":{
+          "RegionName":"Southern India",
+          "Locations":[
+             "Karnataka",
+             "West Bengal",
+             "Andhra Pradesh"
+          ],
+          "From":"2022-06-01T00:00:00",
+          "To":"2022-07-31T00:00:00"
+       }
+    },
+    {
+       "CropName":"Spinach",
+       "Summary":"Spinach is perennial vegetable. It is very good source of vitamins, iron and anti-oxidants. China is the largest producer of spinach. In India, it is popular as palak.",
+       "CoverImage":"/media/51172/spinage-2.jpg",
+       "Url":"/spinach/",
+       "SowingTWR":{
+          "RegionName":" India",
+          "Locations":[
+             "Maharashtra",
+             "Kerala",
+             "West Bengal",
+             "Karnataka",
+             "Tamil Nadu",
+             "Andhra Pradesh",
+             "Gujarat",
+             "Uttar Pradesh",
+             "Telangana"
+          ],
+          "From":"2022-02-16T00:00:00",
+          "To":"2022-03-31T00:00:00"
+       }
+    },
+    {
+       "CropName":"Spinach",
+       "Summary":"Spinach is perennial vegetable. It is very good source of vitamins, iron and anti-oxidants. China is the largest producer of spinach. In India, it is popular as palak.",
+       "CoverImage":"/media/51172/spinage-2.jpg",
+       "Url":"/spinach/",
+       "SowingTWR":{
+          "RegionName":" India",
+          "Locations":[
+             "Karnataka",
+             "Andhra Pradesh",
+             "Tamil Nadu",
+             "Telangana",
+             "Kerala",
+             "Gujarat",
+             "Uttar Pradesh",
+             "Maharashtra"
+          ],
+          "From":"2022-09-01T00:00:00",
+          "To":"2022-10-31T00:00:00"
+       }
+    },
+    {
+       "CropName":"Cotton",
+       "Summary":"The cotton plant is a warm season woody perennial shrub, which is grown as an annual field crop because these plants grow in different environments. This plant grows in various environments farmers can get options from varieties of options that are bred to be productive in various environmental and cultural traditions.",
+       "CoverImage":"/media/51222/picking.jpg",
+       "Url":"/cotton/",
+       "SowingTWR":{
+          "RegionName":"Northern India",
+          "Locations":[
+             "Punjab"
+          ],
+          "From":"2022-04-01T00:00:00",
+          "To":"2022-05-31T00:00:00"
+       }
+    },
+    {
+       "CropName":"Cotton",
+       "Summary":"The cotton plant is a warm season woody perennial shrub, which is grown as an annual field crop because these plants grow in different environments. This plant grows in various environments farmers can get options from varieties of options that are bred to be productive in various environmental and cultural traditions.",
+       "CoverImage":"/media/51222/picking.jpg",
+       "Url":"/cotton/",
+       "SowingTWR":{
+          "RegionName":"Western India",
+          "Locations":[
+             "Rajasthan",
+             "Gujarat",
+             "Madhya Pradesh"
+          ],
+          "From":"2022-03-01T00:00:00",
+          "To":"2022-05-31T00:00:00"
+       }
+    },
+    {
+       "CropName":"Cotton",
+       "Summary":"The cotton plant is a warm season woody perennial shrub, which is grown as an annual field crop because these plants grow in different environments. This plant grows in various environments farmers can get options from varieties of options that are bred to be productive in various environmental and cultural traditions.",
+       "CoverImage":"/media/51222/picking.jpg",
+       "Url":"/cotton/",
+       "SowingTWR":{
+          "RegionName":"Southern India",
+          "Locations":[
+             "Maharashtra",
+             "Andhra Pradesh",
+             "Karnataka"
+          ],
+          "From":"2022-06-01T00:00:00",
+          "To":"2022-07-31T00:00:00"
+       }
+    },
+    {
+       "CropName":"Black Gram Cultivation",
+       "Summary":"Black bean is  a variety of soybean (Glycine max), is cultivated as a food crop in the Kumaon region (Uttaranchal state, northern India), and in the bordering states and countries in the Himalayas. It is used as a green manuring crop.",
+       "CoverImage":"/media/52008/download-25.jpg",
+       "Url":"/black-gram-cultivation/",
+       "SowingTWR":{
+          "RegionName":"All India",
+          "Locations":[
+             "Uttar Pradesh",
+             "Uttarakhand",
+             "Bihar",
+             "Maharashtra",
+             "Andhra Pradesh",
+             "Tamil Nadu",
+             "Karnataka"
+          ],
+          "From":"2022-07-15T00:00:00",
+          "To":"2022-07-31T00:00:00"
+       }
+    },
+    {
+       "CropName":"Cowpea Cultivation",
+       "Summary":"Cowpea is one of the most important food legume crop of Asia, Africa, southern Europe and south America. It is normally warm season crop. There are different uses of this crop. It is considered as crop of African origin. Cowpea has nutrient value and soil improving properties.",
+       "CoverImage":"/media/52022/255idea99white_acre_cowpea_dry.jpg",
+       "Url":"/cowpea-cultivation/",
+       "SowingTWR":{
+          "RegionName":" India ",
+          "Locations":[
+             "Karnataka",
+             "Rajasthan",
+             "Gujarat",
+             "Maharashtra",
+             "Tamil Nadu",
+             "Kerala",
+             "Punjab",
+             "Haryana",
+             "Uttar Pradesh"
+          ],
+          "From":"2022-03-01T00:00:00",
+          "To":"2022-07-15T00:00:00"
+       }
+    },
+    {
+       "CropName":"Green Gram Cultivation",
+       "Summary":"Green gram is important pulse crop. It is very rich source of high quality protein. It is quite common in India and Central Asia. Green gram is consumed as sprout, whole grain and dal. Its cultivation is suitable for all three seasons (kharif, Rabi and summer). It is relevant to many multiple and intercropping systems.",
+       "CoverImage":"/media/52037/green-gram-cultivation.jpg",
+       "Url":"/green-gram-cultivation/",
+       "SowingTWR":{
+          "RegionName":"India ",
+          "Locations":[
+             "Odisha",
+             "Maharashtra",
+             "Andhra Pradesh",
+             "Madhya Pradesh",
+             "Gujarat",
+             "Rajasthan",
+             "Bihar"
+          ],
+          "From":"2022-06-01T00:00:00",
+          "To":"2022-07-31T00:00:00"
+       }
+    },
+    {
+       "CropName":"Moth Bean Cultivation",
+       "Summary":"Moth bean is a native crop of hot and dry habitats of northern and western parts of India. These very adjusting abilities have rendered this crop as an indispensable component of cropping system prevailing in dry regions.",
+       "CoverImage":"/media/52060/moth-dal-500x500.jpg",
+       "Url":"/moth-bean-cultivation/",
+       "SowingTWR":{
+          "RegionName":"India",
+          "Locations":[
+             "Rajasthan",
+             "Gujarat",
+             "Haryana",
+             "Maharashtra",
+             "Punjab",
+             "Madhya Pradesh",
+             "Jammu & Kashmir",
+             "Uttar Pradesh"
+          ],
+          "From":"2022-05-15T00:00:00",
+          "To":"2022-06-30T00:00:00"
+       }
+    },
+    {
+       "CropName":"Sesame Cultivation",
+       "Summary":"Sesame is one of the oldest crops and an important oil yielding crop with oil content of 40-50% and popularly known as Til or Gingelly. The sesame seeds powder and its oil is used in various Indian dishes as a flavoring agent. in India the sesame crop is cultivated as kharif, summer.",
+       "CoverImage":"/media/52073/sesame-seeds-wooden-spoon.jpg",
+       "Url":"/sesame-cultivation/",
+       "SowingTWR":{
+          "RegionName":"India",
+          "Locations":[
+             "West Bengal",
+             "Karnataka",
+             "Andhra Pradesh",
+             "Rajasthan",
+             "Madhya Pradesh",
+             "Tamil Nadu",
+             "Maharashtra"
+          ],
+          "From":"2022-05-01T00:00:00",
+          "To":"2022-07-15T00:00:00"
+       }
+    },
+    {
+       "CropName":"Maize cultivation",
+       "Summary":"Maize is the main and most abundantly produced cereal crop. It is on third place after wheat and rice. Maize is also source of animal feed. Cultivation of maize was introduced in south America from Mexico according to genetic studies of Embrapa.",
+       "CoverImage":"/media/52074/maize-farming.jpg",
+       "Url":"/maize-cultivation/",
+       "SowingTWR":{
+          "RegionName":"India",
+          "Locations":[
+             "Maharashtra",
+             "West Bengal",
+             "Karnataka",
+             "Andhra Pradesh",
+             "Odisha",
+             "Uttar Pradesh",
+             "Madhya Pradesh",
+             "Chhattisgarh",
+             "Bihar",
+             "Himachal Pradesh"
+          ],
+          "From":"2022-05-01T00:00:00",
+          "To":"2022-06-30T00:00:00"
+       }
+    },
+    {
+       "CropName":"Turmeric Cultivation ",
+       "Summary":"Turmeric is a flowering plant Curcuma Longa of the ginger family, Zingiberacea the roots of which are used in cooking. The rhizomes are used fresh or boiled in water and dried, after which they are ground into a deep orange-yellow powder commonly used as a coloring and flavoring agent.",
+       "CoverImage":"/media/52079/download-2.jpg",
+       "Url":"/turmeric-cultivation/",
+       "SowingTWR":{
+          "RegionName":"Southern India",
+          "Locations":[
+             "Karnataka",
+             "Tamil Nadu",
+             "Andhra Pradesh",
+             "Telangana"
+          ],
+          "From":"2022-03-01T00:00:00",
+          "To":"2022-04-30T00:00:00"
+       }
+    },
+    {
+       "CropName":"Lady Finger Cultivation",
+       "Summary":"Okra is a multipurpose crop valued for its tender and delicious pods. is the most important vegetable crop of the tropical and subtropical regions of the world. It belongs to the genus Abelmoschus and family Malvaceae.",
+       "CoverImage":"/media/52133/harvested-ladies-finger.jpg",
+       "Url":"/lady-finger-cultivation/",
+       "SowingTWR":{
+          "RegionName":"North india",
+          "Locations":[
+             "Kerala"
+          ],
+          "From":"2022-01-01T00:00:00",
+          "To":"2022-01-01T00:00:00"
+       }
+    },
+    {
+       "CropName":"Sponge Gourd Cultivation",
+       "Summary":"Sponge gourd is a vegetable grown in tropical and sub-tropical conditions. It has many medicinal uses in Ayurveda. Uttar Pradesh and Punjab are largest states to produce sponge gourd.",
+       "CoverImage":"/media/52136/sponge-gourd-3.jpg",
+       "Url":"/sponge-gourd-cultivation/",
+       "SowingTWR":{
+          "RegionName":"India",
+          "Locations":[
+             "Punjab",
+             "Uttar Pradesh",
+             "Bihar",
+             "Jharkhand",
+             "Delhi",
+             "Haryana",
+             "Gujarat",
+             "Rajasthan"
+          ],
+          "From":"2022-05-16T00:00:00",
+          "To":"2022-07-31T00:00:00"
+       }
+    },
+    {
+       "CropName":"Brinjal Cultivation",
+       "Summary":"Brinjal is a crop grown in warm weather and requires a warm growing season. It is very susceptible to frost. The growth of the crop is majorly affected when temperature falls below 17 degrees Celsius.  It can be successfully grown in a rainy and summer season crop and can grow at an elevation of 1200m above the sea level.",
+       "CoverImage":"/media/52141/2214idea99eggplant-cultivation-ready-to-harvest-fruits.jpg",
+       "Url":"/brinjal-cultivation/",
+       "SowingTWR":{
+          "RegionName":"North India",
+          "Locations":[
+             "Haryana",
+             "Chhattisgarh",
+             "Bihar",
+             "Madhya Pradesh",
+             "West Bengal",
+             "Odisha"
+          ],
+          "From":"2022-06-01T00:00:00",
+          "To":"2022-07-31T00:00:00"
+       }
+    },
+    {
+       "CropName":"Brinjal Cultivation",
+       "Summary":"Brinjal is a crop grown in warm weather and requires a warm growing season. It is very susceptible to frost. The growth of the crop is majorly affected when temperature falls below 17 degrees Celsius.  It can be successfully grown in a rainy and summer season crop and can grow at an elevation of 1200m above the sea level.",
+       "CoverImage":"/media/52141/2214idea99eggplant-cultivation-ready-to-harvest-fruits.jpg",
+       "Url":"/brinjal-cultivation/",
+       "SowingTWR":{
+          "RegionName":"South India",
+          "Locations":[
+             "Karnataka",
+             "Maharashtra",
+             "Andhra Pradesh"
+          ],
+          "From":"2022-07-01T00:00:00",
+          "To":"2022-08-31T00:00:00"
+       }
+    },
+    {
+       "CropName":"Bitter Gourd",
+       "Summary":"Bitter gourd is one of the important vegetable crop. It is also well known for its medicinal value. The leading producing States of bitter gourd are Punjab, Tamil Nadu, Kerala, Maharashtra, West Bengal etc.",
+       "CoverImage":"/media/52143/bitterplusmelon.jpg",
+       "Url":"/bitter-gourd/",
+       "SowingTWR":{
+          "RegionName":"Plains",
+          "Locations":[
+             "Maharashtra",
+             "West Bengal",
+             "Karnataka",
+             "Punjab",
+             "Tamil Nadu",
+             "Gujarat",
+             "Rajasthan",
+             "Kerala",
+             "Uttar Pradesh",
+             "Bihar"
+          ],
+          "From":"2022-06-01T00:00:00",
+          "To":"2022-07-31T00:00:00"
+       }
+    },
+    {
+       "CropName":"Bitter Gourd",
+       "Summary":"Bitter gourd is one of the important vegetable crop. It is also well known for its medicinal value. The leading producing States of bitter gourd are Punjab, Tamil Nadu, Kerala, Maharashtra, West Bengal etc.",
+       "CoverImage":"/media/52143/bitterplusmelon.jpg",
+       "Url":"/bitter-gourd/",
+       "SowingTWR":{
+          "RegionName":"Hilly regions",
+          "Locations":[
+             "Assam",
+             "West Bengal"
+          ],
+          "From":"2022-03-01T00:00:00",
+          "To":"2022-04-30T00:00:00"
+       }
+    },
+    {
+       "CropName":"Watermelon cultivation",
+       "Summary":"Watermelon is one of the flowering plant species. Watermelon is also grown for commercial purposes in long frost free warm periods. Asia grows three fourth of the world production. In comparison of other crops, cultivation  of watermelon requires more sunlight and space.",
+       "CoverImage":"/media/52429/water-3-1.jpg",
+       "Url":"/watermelon-cultivation/",
+       "SowingTWR":{
+          "RegionName":"India",
+          "Locations":[
+             "Andhra Pradesh",
+             "Karnataka",
+             "West Bengal",
+             "Rajasthan",
+             "Odisha",
+             "Tamil Nadu"
+          ],
+          "From":"2022-01-01T00:00:00",
+          "To":"2022-02-28T00:00:00"
+       }
+    },
+    {
+       "CropName":"Sweet Potato Cultivation",
+       "Summary":"Sweet potato is a member of the Convulvolacea, or morning glory, family. It contains about 60 genera and over 1600 species, most of which are herbaceous vines. It has been used as a food source for more than 5000 years.",
+       "CoverImage":"/media/52448/images-3-1.jpg",
+       "Url":"/sweet-potato-cultivation/",
+       "SowingTWR":{
+          "RegionName":"India",
+          "Locations":[
+             "West Bengal",
+             "Uttar Pradesh",
+             "Odisha",
+             "Andhra Pradesh"
+          ],
+          "From":"2022-04-01T00:00:00",
+          "To":"2022-07-31T00:00:00"
+       }
+    },
+    {
+       "CropName":"Ber Cultivation",
+       "Summary":"Ber is a  hardy fruit crop also known as poor man's fruit. Bers are good source of minerals, vitamin C and protein. It is a local fruit of India.",
+       "CoverImage":"/media/52449/ber-1.jpg",
+       "Url":"/ber-cultivation/",
+       "SowingTWR":{
+          "RegionName":"India",
+          "Locations":[
+             "Haryana",
+             "Punjab",
+             "Uttar Pradesh",
+             "Rajasthan",
+             "Gujarat",
+             "Maharashtra",
+             "Andhra Pradesh",
+             "Tamil Nadu",
+             "Bihar"
+          ],
+          "From":"2022-02-01T00:00:00",
+          "To":"2022-03-31T00:00:00"
+       }
+    },
+    {
+       "CropName":"Ber Cultivation",
+       "Summary":"Ber is a  hardy fruit crop also known as poor man's fruit. Bers are good source of minerals, vitamin C and protein. It is a local fruit of India.",
+       "CoverImage":"/media/52449/ber-1.jpg",
+       "Url":"/ber-cultivation/",
+       "SowingTWR":{
+          "RegionName":"India",
+          "Locations":[
+             "Maharashtra",
+             "Punjab",
+             "Tamil Nadu",
+             "Haryana",
+             "Andhra Pradesh",
+             "Gujarat",
+             "Uttar Pradesh",
+             "Madhya Pradesh",
+             "Bihar",
+             "Rajasthan"
+          ],
+          "From":"2022-07-01T00:00:00",
+          "To":"2022-09-30T00:00:00"
+       }
+    },
+    {
+       "CropName":"Bottle Gourd Cultivation ",
+       "Summary":"Bottle Gourd is also known as white-flowered gourd, long melon, New Guinea bean and Tasmania bean, is a vine grown for its fruit. It can be either harvested young to be consumed as a vegetable, or harvested mature to be dried and used as a utensil, container, or a musical instrument.",
+       "CoverImage":"/media/52440/92197788-tree-of-gourd-and-bottle-gourd-on-the-vine-lagenaria-siceraia-molina-standley.jpg",
+       "Url":"/bottle-gourd-cultivation/",
+       "SowingTWR":{
+          "RegionName":"India",
+          "Locations":[
+             "Bihar",
+             "Haryana",
+             "Uttar Pradesh",
+             "Punjab",
+             "Chhattisgarh",
+             "Odisha",
+             "Assam",
+             "Andhra Pradesh",
+             "Telangana"
+          ],
+          "From":"2022-01-01T00:00:00",
+          "To":"2022-02-28T00:00:00"
+       }
+    },
+    {
+       "CropName":"Bottle Gourd Cultivation ",
+       "Summary":"Bottle Gourd is also known as white-flowered gourd, long melon, New Guinea bean and Tasmania bean, is a vine grown for its fruit. It can be either harvested young to be consumed as a vegetable, or harvested mature to be dried and used as a utensil, container, or a musical instrument.",
+       "CoverImage":"/media/52440/92197788-tree-of-gourd-and-bottle-gourd-on-the-vine-lagenaria-siceraia-molina-standley.jpg",
+       "Url":"/bottle-gourd-cultivation/",
+       "SowingTWR":{
+          "RegionName":"India",
+          "Locations":[
+             "Bihar",
+             "Haryana",
+             "Uttar Pradesh",
+             "Punjab",
+             "Chhattisgarh",
+             "Odisha",
+             "Assam"
+          ],
+          "From":"2022-06-01T00:00:00",
+          "To":"2022-07-31T00:00:00"
+       }
+    }
+ ]
