@@ -60,9 +60,11 @@ class _DashboardState extends State<Dashboard> {
         .getString("name")!;
 
     PolygonHelper.getSoilData("6217aa69390ec4c67c4dda4f").then((value) {
-      setState(() {
-        soilData1 = value;
-      });
+      if (mounted) {
+        setState(() {
+          soilData1 = value;
+        });
+      }
     });
   }
 
@@ -259,43 +261,38 @@ class _DashboardState extends State<Dashboard> {
             height: 15,
           ),
 
-          Center(
-            child: Container(
-              width: double.infinity,
-              child: Expanded(
-                child: Column(
+          Expanded(
+            child: Column(
+              children: [
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: [
-                    Row(
-                      mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                      children: [
-                        FarmStatsComponet(
-                          type: "Moisture",
-                          color: Colors.greenAccent,
-                          iconData: Ionicons.water,
-                          text: soilData1!.moisture.toString(),
-                          borderColor: Colors.greenAccent,
-                        ),
-                        FarmStatsComponet(
-                          width: 180,
-                          type: "Temperature at surface",
-                          color: Colors.greenAccent,
-                          iconData: FontAwesome.thermometer_4,
-                          text: soilData1!.surface_temp.toString(),
-                          borderColor: Colors.greenAccent,
-                        ),
-                      ],
+                    FarmStatsComponet(
+                      type: "Moisture",
+                      color: Colors.greenAccent,
+                      iconData: Ionicons.water,
+                      text: soilData1!.moisture.toString(),
+                      borderColor: Colors.greenAccent,
                     ),
                     FarmStatsComponet(
-                      width: 210,
-                      type: "Temperature at 10cm depth",
+                      width: 180,
+                      type: "Temperature at surface",
                       color: Colors.greenAccent,
                       iconData: FontAwesome.thermometer_4,
-                      text: soilData1!.temp_10cm.toString(),
+                      text: soilData1!.surface_temp.toString(),
                       borderColor: Colors.greenAccent,
                     ),
                   ],
                 ),
-              ),
+                FarmStatsComponet(
+                  width: 210,
+                  type: "Temperature at 10cm depth",
+                  color: Colors.greenAccent,
+                  iconData: FontAwesome.thermometer_4,
+                  text: soilData1!.temp_10cm.toString(),
+                  borderColor: Colors.greenAccent,
+                ),
+              ],
             ),
           )
         ],

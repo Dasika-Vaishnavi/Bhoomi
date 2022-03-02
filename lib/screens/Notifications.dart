@@ -37,48 +37,44 @@ class _NotificationsScreenState extends State<NotificationsScreen> {
             case ConnectionState.done:
               {
                 List<NotificationModel> notificationList = snapshot.data!;
-                return Column(
-                  children: [
-                    ListView.builder(
-                        shrinkWrap: true,
-                        itemCount: notificationList.length,
-                        itemBuilder: (context, index) {
-                          NotificationModel notificationModel =
-                              notificationList[index];
-                          return ListTile(
-                            tileColor: Colors.white,
-                            leading: IconButton(
-                              icon: Icon(MaterialIcons.volume_up),
-                              onPressed: () async {
-                                await AlertHelper.speak(
-                                    notificationModel.title!, "en");
-                              },
+                return ListView.builder(
+                    shrinkWrap: true,
+                    itemCount: notificationList.length,
+                    itemBuilder: (context, index) {
+                      NotificationModel notificationModel =
+                          notificationList[index];
+                      return ListTile(
+                        tileColor: Colors.white,
+                        leading: IconButton(
+                          icon: Icon(MaterialIcons.volume_up),
+                          onPressed: () async {
+                            await AlertHelper.speak(
+                                notificationModel.title!, "en");
+                          },
+                        ),
+                        title: Text(
+                          notificationModel.title!,
+                          style: TextStyle(
+                              fontWeight: FontWeight.bold, fontSize: 16),
+                        ),
+                        subtitle: Text(notificationModel.description!),
+                        trailing: Column(
+                          children: [
+                            Text(
+                              "${notificationModel.dateTime!.day}/${notificationModel.dateTime!.month}/${notificationModel.dateTime!.year}",
+                              style: TextStyle(),
                             ),
-                            title: Text(
-                              notificationModel.title!,
-                              style: TextStyle(
-                                  fontWeight: FontWeight.bold, fontSize: 16),
+                            SizedBox(
+                              height: 5,
                             ),
-                            subtitle: Text(notificationModel.description!),
-                            trailing: Column(
-                              children: [
-                                Text(
-                                  "${notificationModel.dateTime!.day}/${notificationModel.dateTime!.month}/${notificationModel.dateTime!.year}",
-                                  style: TextStyle(),
-                                ),
-                                SizedBox(
-                                  height: 5,
-                                ),
-                                Text(
-                                    "${notificationModel.dateTime!.hour}:${notificationModel.dateTime!.minute}")
-                              ],
-                            ),
-                          );
-                        }),
-                    SizedBox(
-                      height: 20,
-                    )
-                  ],
+                            Text(
+                                "${notificationModel.dateTime!.hour}:${notificationModel.dateTime!.minute}")
+                          ],
+                        ),
+                      );
+                    });
+                SizedBox(
+                  height: 20,
                 );
               }
           }

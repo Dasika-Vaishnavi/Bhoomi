@@ -10,10 +10,10 @@ import '../HelperMethods/alert_helper.dart';
 import '../main.dart';
 
 void notif(context) {
-  FirebaseMessaging.onMessage.listen((RemoteMessage message) {
+  FirebaseMessaging.onMessage.listen((RemoteMessage message) async {
+    await AlertHelper.speak(message.notification!.title!, "en");
     NotificationHelper.updateNotifications(message);
 
-    AlertHelper.manageNotif(message.notification!.title!);
     RemoteNotification? notification = message.notification;
     AndroidNotification? android = message.notification?.android;
     if (notification != null) {

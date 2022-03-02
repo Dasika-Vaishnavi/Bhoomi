@@ -91,7 +91,8 @@ final FlutterLocalNotificationsPlugin flutterLocalNotificationsPlugin =
 
 Future<void> _firebaseMessagingBackgroundHandler(RemoteMessage message) async {
   await Firebase.initializeApp();
-  AlertHelper.manageNotif(message.notification!.title!);
+  AlertHelper.speak(message.notification!.title!, "en");
+  //await AlertHelper.manageNotif(message.notification!.title!);
   NotificationHelper.updateNotifications(message);
   print('A bg message just showed up :  ${message.messageId}');
   print(message.data);
@@ -155,6 +156,7 @@ class _MyAppState extends State<MyApp> {
     return ChangeNotifierProvider(
       create: ((context) => AppData()),
       child: MaterialApp(
+        debugShowCheckedModeBanner: false,
         title: 'Flutter Demo',
         theme: ThemeData(
           colorScheme:
